@@ -10,3 +10,9 @@
 
 🌍 Maputo, Moçambique
 🧠 Sempre aprendendo e explorando novas tecnologias.
+
+## 🛠 Habilidades
+
+- 🐍 Python
+- 🔧 Git / GitHub
+- 💻 Programação
